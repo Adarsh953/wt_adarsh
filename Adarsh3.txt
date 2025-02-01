@@ -1,0 +1,5 @@
+• What happens if you remove the target attribute ?
+ How does the behavior of the link change?
+
+ANS:
+      If we remove the target attribute the link will be in same taband the current page replaced to the link page
