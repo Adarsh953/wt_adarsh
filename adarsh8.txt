@@ -1,0 +1,14 @@
+﻿Why is the type="password" attribute used for the password field?
+
+
+      The `type="password"` attribute is used for the password field in an HTML form to ensure that the user's password is not visible on the screen as they type it. This provides an additional layer of security and privacy for the user.
+
+
+
+
+
+
+What happens if you change it to type="text"?
+
+
+      If you change the `type` attribute of the password input field from `type="password"` to `type="text"`, the password will be displayed in plain text as the user types it.
