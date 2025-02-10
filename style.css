@@ -1,0 +1,28 @@
+h1{
+    border:5px solid red;
+    display:inline;
+}   
+h2{
+   background-color:black;
+   color:white;
+   display:inline;
+}
+p{
+  color:blue;
+}
+.section1 p{
+   font-style:italic;
+}
+.selectin2 p{
+  font-style:italic;
+}
+. selection3 p{
+   font-style:italic;
+}  
+div{
+    font-size:30px;
+}
+.footer{
+    font-style:normal;
+}
+  
