@@ -1,0 +1,14 @@
+
+th{
+	border:solid red;
+	
+}
+td{
+	background-color:black;
+	color:white;
+	font-style:italic;
+}
+p{
+	font-style:italic;
+	color:blue;
+}
