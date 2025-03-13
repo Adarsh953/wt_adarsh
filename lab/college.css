@@ -1,4 +1,8 @@
-
+body{
+	background-image:url('https://library.sgcaruvithura.ac.in/images/sgclogoname.png');
+	background-size:cover;
+        background-position:center;
+}
 p{
 	font-style:italic;
 }
